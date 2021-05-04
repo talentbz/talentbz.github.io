@@ -16,8 +16,11 @@ body {
   transform: translate(-50%, -50%);
 }
 .slider_wrapper .full_video {
-	display: block; 
-	width: 100%; height 56.5%;
+	display: block;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    object-fit: cover;
 }
 .fotorama--fullscreen .thumb_video, .fotorama--fullscreen .full_video{
 	left: 50%;
