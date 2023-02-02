@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/etherscan/static/css/main.95fe6183.css",
-    "main.js": "/etherscan/static/js/main.71fe7e6b.js",
+    "main.css": "/etherscan/static/css/main.9dc5c01c.css",
+    "main.js": "/etherscan/static/js/main.d4673012.js",
     "static/js/787.8ef9978e.chunk.js": "/etherscan/static/js/787.8ef9978e.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/etherscan/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/abstract-shapes-20.svg": "/etherscan/static/media/abstract-shapes-20.dab9d4da908dd9f85f2e.svg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/world-map-white.png": "/etherscan/static/media/world-map-white.dd20a82b868004b9139f.png",
     "static/media/logo-etherscan.svg": "/etherscan/static/media/logo-etherscan.4821ee85c2b7bbaf5878fa0a0bdbe18d.svg",
     "static/media/icon-51.svg": "/etherscan/static/media/icon-51.38ef5c73eb9153134e6169dd06ece308.svg",
     "static/media/icon-2-1.svg": "/etherscan/static/media/icon-2-1.77219492bd03a160a7c98bed8445f607.svg",
@@ -11,12 +17,12 @@
     "static/media/ethereum-1.svg": "/etherscan/static/media/ethereum-1.063c68d7565978fe1505fd6df214c8b5.svg",
     "index.html": "/etherscan/index.html",
     "static/media/ethereum.svg": "/etherscan/static/media/ethereum.e16d0d4b8415aa0b5aa119f9f8f96a64.svg",
-    "main.95fe6183.css.map": "/etherscan/static/css/main.95fe6183.css.map",
-    "main.71fe7e6b.js.map": "/etherscan/static/js/main.71fe7e6b.js.map",
+    "main.9dc5c01c.css.map": "/etherscan/static/css/main.9dc5c01c.css.map",
+    "main.d4673012.js.map": "/etherscan/static/js/main.d4673012.js.map",
     "787.8ef9978e.chunk.js.map": "/etherscan/static/js/787.8ef9978e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95fe6183.css",
-    "static/js/main.71fe7e6b.js"
+    "static/css/main.9dc5c01c.css",
+    "static/js/main.d4673012.js"
   ]
 }
