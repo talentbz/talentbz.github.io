@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/etherscan/static/css/main.205c4533.css",
-    "main.js": "/etherscan/static/js/main.43ccebb8.js",
+    "main.css": "/etherscan/static/css/main.ef0c0a11.css",
+    "main.js": "/etherscan/static/js/main.b81c43f4.js",
     "static/js/651.597ef9c7.chunk.js": "/etherscan/static/js/651.597ef9c7.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/etherscan/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,20 +9,21 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/abstract-shapes-20.svg": "/etherscan/static/media/abstract-shapes-20.dab9d4da908dd9f85f2e.svg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/etherscan/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/world-map-white.png": "/etherscan/static/media/world-map-white.dd20a82b868004b9139f.png",
-    "static/media/logo-etherscan.svg": "/etherscan/static/media/logo-etherscan.4821ee85c2b7bbaf5878fa0a0bdbe18d.svg",
-    "static/media/icon-51.svg": "/etherscan/static/media/icon-51.38ef5c73eb9153134e6169dd06ece308.svg",
-    "static/media/icon-2-1.svg": "/etherscan/static/media/icon-2-1.77219492bd03a160a7c98bed8445f607.svg",
-    "static/media/icon-8.svg": "/etherscan/static/media/icon-8.00fca7ed03e5abd3bdc0c4910b21560b.svg",
-    "static/media/ethereum-1.svg": "/etherscan/static/media/ethereum-1.063c68d7565978fe1505fd6df214c8b5.svg",
+    "static/media/map.png": "/etherscan/static/media/map.c4f2a0ec24efa77dc140.png",
+    "static/media/map-light.png": "/etherscan/static/media/map-light.dd20a82b868004b9139f.png",
+    "static/media/logo-etherscan.svg": "/etherscan/static/media/logo-etherscan.34bf531fe002695e5320eea9f3981b09.svg",
+    "static/media/etherscan-light.svg": "/etherscan/static/media/etherscan-light.a323503fbb6221a3fa63d547becb8097.svg",
+    "static/media/blockscan-logo-dark.svg": "/etherscan/static/media/blockscan-logo-dark.b8d07598f04b48cc0d952b036a597f88.svg",
+    "static/media/blockscan-logo-light.svg": "/etherscan/static/media/blockscan-logo-light.5e85d26431c3096b76c873cf3487aa8a.svg",
     "index.html": "/etherscan/index.html",
-    "static/media/ethereum.svg": "/etherscan/static/media/ethereum.e16d0d4b8415aa0b5aa119f9f8f96a64.svg",
-    "main.205c4533.css.map": "/etherscan/static/css/main.205c4533.css.map",
-    "main.43ccebb8.js.map": "/etherscan/static/js/main.43ccebb8.js.map",
+    "static/media/ethereum-light.svg": "/etherscan/static/media/ethereum-light.e16d0d4b8415aa0b5aa119f9f8f96a64.svg",
+    "static/media/ethereum-dark.svg": "/etherscan/static/media/ethereum-dark.cf8aa5e7c7ee6fe226057d2329059293.svg",
+    "main.ef0c0a11.css.map": "/etherscan/static/css/main.ef0c0a11.css.map",
+    "main.b81c43f4.js.map": "/etherscan/static/js/main.b81c43f4.js.map",
     "651.597ef9c7.chunk.js.map": "/etherscan/static/js/651.597ef9c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.205c4533.css",
-    "static/js/main.43ccebb8.js"
+    "static/css/main.ef0c0a11.css",
+    "static/js/main.b81c43f4.js"
   ]
 }
