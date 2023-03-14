@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ether_new/static/css/main.28650faa.css",
-    "main.js": "/ether_new/static/js/main.18181129.js",
+    "main.css": "/ether_new/static/css/main.39ca934e.css",
+    "main.js": "/ether_new/static/js/main.e5cc255b.js",
     "static/js/787.28cb0dcd.chunk.js": "/ether_new/static/js/787.28cb0dcd.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/ether_new/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/ether_new/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -19,12 +19,12 @@
     "index.html": "/ether_new/index.html",
     "static/media/ethereum-original-light.svg": "/ether_new/static/media/ethereum-original-light.e16d0d4b8415aa0b5aa119f9f8f96a64.svg",
     "static/media/ethereum-original.svg": "/ether_new/static/media/ethereum-original.cf8aa5e7c7ee6fe226057d2329059293.svg",
-    "main.28650faa.css.map": "/ether_new/static/css/main.28650faa.css.map",
-    "main.18181129.js.map": "/ether_new/static/js/main.18181129.js.map",
+    "main.39ca934e.css.map": "/ether_new/static/css/main.39ca934e.css.map",
+    "main.e5cc255b.js.map": "/ether_new/static/js/main.e5cc255b.js.map",
     "787.28cb0dcd.chunk.js.map": "/ether_new/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28650faa.css",
-    "static/js/main.18181129.js"
+    "static/css/main.39ca934e.css",
+    "static/js/main.e5cc255b.js"
   ]
 }
